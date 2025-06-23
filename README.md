@@ -28,4 +28,5 @@ O conteúdo está separado em seções para cada jogo, com um índice no topo pa
 - Destaques visuais ou artísticos
 
 ## Observações
+- Todo conteúdo abordado nessa recriação é totalmente pego do Wikipedia ORIGINAL!
 - Esse projeto tem como fins educativos com foco em praticar HTML e estruturar uma página.
